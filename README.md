@@ -34,6 +34,9 @@ You can download these files and open the SyringeHelper.scad file in OpenScad (y
 
 <a href="./images/openscad.png"><img src="./images/openscad.png" width="400"></a>
 
+## How did you calibrate?
+We started by just measuring the index size of a full syringe. So for a syringe for 30 units of insulin, we would measure the distance between 0 and 30 units in millimeters and use that to calculate a ratio. After that we did some test prints with 3 steps of 10 units to fine-tune this ratio. We went a bit overboard and bought a precision balance ([Kern pcb 250-3](https://www.kern-sohn.com/cgi-bin/cosmoshop/lshop.cgi?action=suche&ls=en&gesamt_zeilen=0&fresh=1&suchbegriff=PCB%20250-3)) to measure our results. This scale can repeatably measure down to 1 microgram, so we filled our syringes with water and we were able to ensure our results were correct and repeatable. We discovered the plastic part of the syringe is dependable enough to use as a measurement support. Luckily only the printed index is imprecise.
+
 ## Disclaimer
 Please test your print before using. This was all calibrated for my 3D Printer (Creality Ender 3 V2). Do not assume my measurements are correct for your syringes. Test them on at least 10 syringes and decide for yourself if you feel comfortable using them.
 
