@@ -12,7 +12,7 @@ This is a tool that you fit around the syringe plunger head to get a precise dos
 
 ## Currently supported syringes
 - BD Micro-Fine+ 0,5ml U40 8mm - EAN: [0382904876036](https://duckduckgo.com/?q=0382904876036)
-- BD Micro-Fine+ Demi 0,3ml U100 8mm 30G - EAN: [0382904826031](https://duckduckgo.com/?q=0382904876036)
+- BD Micro-Fine+ Demi 0,3ml U100 8mm 30G - EAN: [0382904826031](https://duckduckgo.com/?q=0382904826031)
 
 Note that the U-100 version currently centers on the top part of the plunger. This is a design choice made by https://www.diabetes-katzen.net in their excellent [paper version](https://www.diabetes-katzen.net/images/insulinspritzenmass/Insulinspritzenmass_mit_Erkl%c3%a4rung.pdf). Because we were initially using that, we kept the 0,5 unit offset.
 
