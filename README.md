@@ -11,11 +11,11 @@ This is a precision tool that you fit around the syringe plunger to get a precis
 - BD Micro-Fine+ Demi 0,3ml U100 8mm 30G - EAN: [0382904826031](https://duckduckgo.com/?q=0382904876036)
 
 ## How to use
-First fill your syringe with a larger amount of insuline
-Make sure all the bubbles are out
-Fit the tool around the plunger head
-Push the tool against the syringe body
-Validate your result. If your result is different, check if the printed index has an offset. You can see this at the 0 point.
+- First fill your syringe with a larger amount of insulin.
+- Make sure all the bubbles are out.
+- Fit the tool around the plunger head.
+- Push the tool against the syringe body.
+- Validate your result. If your result is different, check if the printed index has an offset. You can see this at the 0 point.
 
 <a href="./images/usage.jpeg"><img src="./images/usage.jpeg" width="200"></a>
 
