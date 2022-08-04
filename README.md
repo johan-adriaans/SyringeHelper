@@ -33,3 +33,5 @@ Please test your print before using. This was all calibrated for my 3D Printer (
 
 ## Background
 We have a cat that needs insulin. A cat is a lot smaller than a human and needs more precise dosing. The pens we found would only be configurable for half a unit of insulin, while an animal as small as a cat could need changes down to 0.1 units. We also found that most manual syringes have a reasonably dependable plastic mold, but imprecise printing. The printed index on the syringe could differ up to 0.2 units. Long story short, it is impossible to measure a repeatable, precise dose without some sort of tool.. So we made a tool.
+
+PS: If you have a cat and you speak Dutch, feel free to join the excellent forum [Diabeteskatten.nl](https://www.diabeteskatten.nl) for expert advice and support.
