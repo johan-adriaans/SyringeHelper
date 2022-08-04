@@ -3,7 +3,9 @@ A 3D printable tool for repeatable precise dosing of insulin.
 
 <a href="./images/example-prints.jpeg"><img src="./images/example-prints.jpeg" width="200"></a>
 
-Also published on: https://www.thingiverse.com/thing:5448298
+Also published on:
+- https://www.printables.com/model/253310-syringe-dosage-helper
+- https://www.thingiverse.com/thing:5448298
 
 ## What is it
 This is a tool that you fit around the syringe plunger head to get a precise dosage of insulin.
