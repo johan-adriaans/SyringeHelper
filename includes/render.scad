@@ -7,7 +7,7 @@ rotate([-90,0,0]) // Rotate once so it lays flat for easy printing. Remove this 
     union() {
         for (i = [0 : 1 : step_count-1] ) {
             units = unit_start + (i * unit_steps);
-            height = plunger_head_gap_height + bottom_offset + plunger_head_offset + real_zero_offset + (units * unit_ratio);
+            height = bottom_offset + plunger_head_offset + real_zero_offset + (units * unit_ratio);
             x_offset = i * block_width;
             
             translate([x_offset, 0, 0])

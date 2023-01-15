@@ -8,13 +8,13 @@
 unit_ratio = 41/30;
 
 // Height of the gap for the plunger head (the part you hold when you push/pull).
-plunger_head_gap_height = 1.4;
+plunger_head_gap_height = 1.5;
 
 // Radius of the plunger head.
 plunger_head_radius = 4.75;
 
 // This is the gap between the tube and the bottom of the plunger head when the plunger is at 0.
-plunger_head_offset = 7 - 0.1 * unit_ratio;
+plunger_head_offset = (7 - 0.1 * unit_ratio) + 1.4;
 
 // In most syringes there is an gap between the zero marking and the actual zero.
 // We have chosen to include this so it lines out with most syringe markings.

@@ -1,7 +1,7 @@
 /*
  * Values for:
- * BD Micro-Fine+ 0,5ml U40 8mm
- * EAN: 0382904876036
+ * BD Omnican 20 0,5ml U40 0.3 x 8mm
+ * EAN: 4039239541936
  */
 
 // The ration between mm and units. Measure how many milimeter 1 unit is on your syringe.
