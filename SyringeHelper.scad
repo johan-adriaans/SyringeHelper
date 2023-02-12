@@ -15,7 +15,7 @@ bottom_offset = 12; // 12 or 15
  * Include one file with syringe settings here.
  * Check the file for more details like EAN numbers.
  */
-include <includes/BD Omnican 20 U-40.scad>
+include <includes/Braun Omnican 20 U-40.scad>
 //include <includes/BD Micro-Fine U-40.scad>
 //include <includes/BD Micro-Fine U-100.scad>
 
