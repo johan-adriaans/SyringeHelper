@@ -1,6 +1,6 @@
 /*
  * Values for:
- * BD Omnican 20 0,5ml U40 0.3 x 8mm
+ * Braun Omnican 20 0,5ml U40 0.3 x 8mm
  * EAN: 4039239541936
  */
 
