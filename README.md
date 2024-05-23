@@ -14,6 +14,7 @@ This is a tool that you fit around the syringe plunger head to get a precise dos
 - BD Micro-Fine+ 0,5ml U40 8mm - EAN: [0382904876036](https://duckduckgo.com/?q=0382904876036)
 - BD Micro-Fine+ Demi 0,3ml U100 8mm 30G - EAN: [0382904826031](https://duckduckgo.com/?q=0382904826031)
 - Braun Omnican 20 0,5ml U40 8mm - EAN: [4039239541936](https://duckduckgo.com/?q=4039239541936)
+- Sol-Vet U100 0,3ml 30G x 1/2" (0.3mm x 12,5mm) - GTIN: [0818392013016](https://www.gs1.org/services/verified-by-gs1/results?gtin=0818392013016)
 
 A syringe type is nothing more than a set of values in an OpenSCAD include. It is very doable to add a new type. The code should speak for itself, but feel free to contact me if you have questions.
 
