@@ -12,7 +12,7 @@
  */
 
 // The ration between mm and units. Measure how many milimeter 1 unit is on your syringe.
-unit_ratio = 1.386;
+unit_ratio = 1.37;
 
 // Height of the gap for the plunger head (the part you hold when you push/pull).
 plunger_head_gap_height = 1.32;
