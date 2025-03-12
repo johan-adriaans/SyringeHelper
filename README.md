@@ -13,6 +13,7 @@ This is a tool that you fit around the syringe plunger head to get a precise dos
 ## Currently supported syringes
 - BD Micro-Fine+ 0,5ml U40 8mm - EAN: [0382904876036](https://duckduckgo.com/?q=0382904876036)
 - BD Micro-Fine+ Demi 0,3ml U100 8mm 30G - EAN: [0382904826031](https://duckduckgo.com/?q=0382904826031)
+- BD Ultra-Fine 0,3ml U100 12,7mm 29G - EAN: [0382903261031](https://duckduckgo.com/?q=0382903261031) (Added by [Tony B](https://github.com/tony-butchart))
 - Braun Omnican 20 0,5ml U40 8mm - EAN: [4039239541936](https://duckduckgo.com/?q=4039239541936)
 - Sol-Vet U100 0,3ml 30G x 1/2" (0.3mm x 12,5mm) - GTIN: [0818392013016](https://www.gs1.org/services/verified-by-gs1/results?gtin=0818392013016)
 - Sol-Vet U40 0,3ml 30G x 1/2" (0.3mm x 12,5mm) - REF: V3305-40 GTIN: [818392012682](https://www.gs1.org/services/verified-by-gs1/results?gtin=818392012682)
